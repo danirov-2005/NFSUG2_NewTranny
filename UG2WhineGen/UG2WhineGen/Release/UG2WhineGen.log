@@ -1,0 +1,1957 @@
+﻿  dllmain.cpp
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\GlobalVariables.h(18,9): warning C4005: _IsRacing: изменение макроопределения
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\GlobalVariables.h(11,9):
+      см. предыдущее определение "_IsRacing"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\GlobalVariables.h(39,17): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(275,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(279,21): warning C4305: -=: усечение из "double" в "float"
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(284,21): warning C4305: +=: усечение из "double" в "float"
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(290,14): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(307,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(310,21): warning C4305: -=: усечение из "double" в "float"
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(315,21): warning C4305: +=: усечение из "double" в "float"
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(320,14): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(326,82): warning C4100: "isMute": неиспользованный параметр
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(400,9): warning C4244: аргумент: преобразование "ma_uint64" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(459,57): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(552,9): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(12661,9): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(13481,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(13529,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(13654,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(13755,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(15384,18): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(15402,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(15420,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(15438,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16445,11): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16459,10): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16485,11): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16499,10): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16520,22): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16543,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16822,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(16939,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17013,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17151,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17172,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17202,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17503,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17543,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17564,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17619,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(17685,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(18167,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(18897,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19005,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19045,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19102,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19226,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19490,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19619,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19710,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(19790,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21121,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21168,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21189,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21255,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21510,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21586,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21642,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21702,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21858,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(21967,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(22101,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(22603,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(22724,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(23013,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(23072,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(23088,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(23191,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(23212,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(23414,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(23558,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(24401,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(24658,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(24937,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(25798,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(25825,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(25965,21): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(25994,21): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(26042,21): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(26053,21): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(26108,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(26415,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(26507,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(31469,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(31648,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(31989,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(40965,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41153,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41449,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41461,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41496,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41516,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41614,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41877,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(41948,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(42003,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(42054,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(42472,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(42680,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(42720,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(42782,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(42907,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(45714,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(45735,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(45760,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46051,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46070,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46094,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46315,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46339,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46379,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46468,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46530,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46666,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46698,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46812,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46952,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46971,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(46995,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47200,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47224,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47264,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47342,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47404,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47540,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47572,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47630,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47781,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47805,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47845,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47913,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(47960,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48053,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48085,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48138,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48272,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48296,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48336,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48449,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48473,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48513,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48623,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48647,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48687,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48797,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48821,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(48861,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(49117,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(49139,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(49178,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(50356,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(50377,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(50423,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(50668,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(50717,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(50739,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(50811,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(51658,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(51759,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(51779,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(51800,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(51842,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(52474,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(52612,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(52645,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(52682,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(52747,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(53633,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(53873,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(53894,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(54124,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(54652,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(54704,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(54725,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(54866,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(54993,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(55138,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(55263,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(55422,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(56723,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(56812,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57252,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57337,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57401,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57430,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57577,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57609,52): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57896,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(57971,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58144,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58194,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58264,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58292,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58350,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58614,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58859,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(58946,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59241,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59309,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59354,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59544,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59762,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59809,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59850,10): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59892,10): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(59925,10): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(60403,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61382,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61513,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61542,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61571,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61600,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61631,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61668,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61698,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61728,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61827,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61841,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61862,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61936,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(61976,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62008,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62040,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62110,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62311,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62335,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62359,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62383,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62515,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62529,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62550,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62580,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62616,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62644,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62672,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62738,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62934,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62958,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(62982,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63006,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63140,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63154,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63175,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63240,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63252,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63292,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63324,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63356,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63427,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63615,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63639,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63663,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(63687,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(64641,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(64676,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(64692,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(64798,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(64902,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(64921,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65243,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65268,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65377,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65402,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65508,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65524,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65659,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65675,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(65837,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66005,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66096,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66126,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66157,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66237,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66269,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66311,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66410,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66438,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66490,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66518,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66556,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(66676,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(67068,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(67311,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(67332,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(67387,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(67576,12): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(67672,12): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(67985,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(68399,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(68461,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(68508,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(68749,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(68806,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(68941,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(68972,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(69066,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(69163,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(69307,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(69464,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(69624,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(69856,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(69906,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(70012,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(70369,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(70570,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(70739,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(70901,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71046,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71088,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71319,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71512,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71587,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71725,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71859,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71889,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(71938,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(72091,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(72152,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(72573,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(72828,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(72918,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(72940,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(73035,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(73190,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(73419,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(73847,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(73970,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74050,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74142,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74236,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74331,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74425,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74519,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74614,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74708,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74800,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(74985,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(75255,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(75457,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(75547,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(75568,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(75715,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(75862,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76187,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76329,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76359,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76574,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76719,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76813,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76921,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(76986,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(77073,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(77803,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(78932,12): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(78940,12): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(78950,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(78992,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(79019,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(79034,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(79514,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(80074,25): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(80715,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(80770,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(80996,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(83578,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(83979,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(84029,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(84057,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(84070,14): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(84383,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(84440,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86140,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86154,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86490,19): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86528,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86599,27): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86618,27): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86882,27): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(86901,27): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(87611,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(87909,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(87920,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(87939,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(88294,23): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(93220,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\miniaudio.h(93234,15): warning C4459: объявление "result" скрывает глобальное объявление
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Utils.h(12,11):
+       см. объявление "result"
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\dllmain.cpp(44,18): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\dllmain.cpp(195,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\dllmain.cpp(221,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\dllmain.cpp(250,11): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\dllmain.cpp(380,9): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\ini_parser.hpp(183,67): warning C4310: приведение обуславливает усечение постоянного значения
+  (компиляция исходного файла "dllmain.cpp")
+      E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\ini_parser.hpp(183,67):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\IniReader.h(86,15):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "linb::basic_ini<char,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::map<StringType,StringType,std::less<StringType>,std::allocator<std::pair<const StringType,StringType>>>,std::map<StringType,KeyContainer,std::less<StringType>,std::allocator<std::pair<const StringType,KeyContainer>>>>"
+          with
+          [
+              StringType=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+              KeyContainer=std::map<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+          ]
+          E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\ini_parser.hpp(166,18):
+          во время компиляции функции-члена класс шаблон "bool linb::basic_ini<char,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::map<StringType,StringType,std::less<StringType>,std::allocator<std::pair<const StringType,StringType>>>,std::map<StringType,KeyContainer,std::less<StringType>,std::allocator<std::pair<const StringType,KeyContainer>>>>::read_file(std::stringstream &)"
+          with
+          [
+              StringType=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+              KeyContainer=std::map<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+          ]
+              E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\ini_parser.hpp(306,17):
+              см. первую ссылку на linb::basic_ini<char,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::map<StringType,StringType,std::less<StringType>,std::allocator<std::pair<const StringType,StringType>>>,std::map<StringType,KeyContainer,std::less<StringType>,std::allocator<std::pair<const StringType,KeyContainer>>>>::read_file "linb::basic_ini<char,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::map<StringType,StringType,std::less<StringType>,std::allocator<std::pair<const StringType,StringType>>>,std::map<StringType,KeyContainer,std::less<StringType>,std::allocator<std::pair<const StringType,KeyContainer>>>>::load_file"
+          with
+          [
+              StringType=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+              KeyContainer=std::map<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+          ]
+              E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\IniReader.h(105,23):
+              см. первую ссылку на linb::basic_ini<char,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::map<StringType,StringType,std::less<StringType>,std::allocator<std::pair<const StringType,StringType>>>,std::map<StringType,KeyContainer,std::less<StringType>,std::allocator<std::pair<const StringType,KeyContainer>>>>::load_file "CIniReader::CIniReader"
+          with
+          [
+              StringType=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+              KeyContainer=std::map<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+          ]
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\ini_parser.hpp(183,91): warning C4310: приведение обуславливает усечение постоянного значения
+  (компиляция исходного файла "dllmain.cpp")
+  
+E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\includes\ini_parser.hpp(183,115): warning C4310: приведение обуславливает усечение постоянного значения
+  (компиляция исходного файла "dllmain.cpp")
+  
+  Создание кода
+  2 of 2582 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    41 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  UG2WhineGen.vcxproj -> E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Release\UG2WhineGen.asi
+  E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Release\\UG2WhineGen.asi
+  Системе не удается найти указанный путь.
+  Скопировано файлов:         0.
+D:\Visual Studio 2026\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: выход из команды "copy "E:\NFS_MODS\NFS Underground 2\UG2WhineGen-1.0.2\UG2WhineGen\Release\\*asi" "C:\EXCUSE_ME\GAMES\NFSUG2\scripts" /Y
+D:\Visual Studio 2026\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" с кодом 1.

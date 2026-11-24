@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "UG2WhineGen\\Release\\GlobalVariables.obj",
+            "outputs": [
+                "UG2WhineGen\\Release\\GlobalVariables.h.obj.dt.module.json",
+                "UG2WhineGen\\Release\\GlobalVariables.h.obj.dt.d.json",
+                "UG2WhineGen\\Release\\UG2WhineGen.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
