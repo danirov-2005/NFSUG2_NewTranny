@@ -1,11 +1,4 @@
-Underground 2 Transmission Whine Mod. © ropsli No Rights Reserved.
+This script is based on UG2WhineGen by ropsli:
+https://github.com/ropi336/UG2WhineGen
 
-This script adds the NFS CARBON© Gearbox whine to all/any cars of your choosing. Compatible with addon cars.
-
-Requirements: A DLL ASI loader.
-
-Credits: ARCHIE's HUD mod for various memory addresses.
-
-NFSPSExOpts for various memory addresses, include folder (memory injector, .ini reader) and MSVC project settings, and WINAPI memory entry functions
-
-MiniAudio for the audio engine used in the mod.
+The main difference is an increased pitch at high speed, which make the sound closer to the original audio in Most Wanted/Carbon
